@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+#td-input{
+    width: 80%;
+    height: 50px;
+    margin-left: 50px;
+}
+h2{
+    text-align: center;
+    color: whitesmoke;
+    font-family: Verdana;
+}
+#TDL{
+    background-color: teal;
+    height: 150px;
+}
+#btnAdd{
+    border: tomato;
+    
+}
+    #Myl{
+        list-style: none;
+        padding: 15px; 
+        background-color:rgb(167, 167, 211);
+
+    }
+
+ li{
+padding: 40px;
+margin: 10px;
+ }
